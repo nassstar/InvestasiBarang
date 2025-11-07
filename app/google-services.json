@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557557798793",
+    "project_id": "investasibarang-df3ec",
+    "storage_bucket": "investasibarang-df3ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557557798793:android:daca8e2704a907b0687358",
+        "android_client_info": {
+          "package_name": "com.example.investasibarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557557798793-khmibiolm1dp2ptmm8v7fkf4d2j386fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6ulD1FbGd884ErvJCSmaiMi3JfOkZjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557557798793-khmibiolm1dp2ptmm8v7fkf4d2j386fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
