@@ -74,6 +74,7 @@ class LoginActivity : AppCompatActivity() {
                             startActivity(Intent(this, MainActivity::class.java))
                             finish()
                         } else {
+                            Toast.makeText(this, "Login gagal: ${task.exception?.message}", Toast.LENGTH_SHORT).show()
                             task.exception?.printStackTrace()
                         }
                     }

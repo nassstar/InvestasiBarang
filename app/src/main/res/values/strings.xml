@@ -1,4 +1,26 @@
 <resources>
     <string name="app_name">InvestasiBarang</string>
     <string name="default_web_client_id" translatable="false">557557798793-khmibiolm1dp2ptmm8v7fkf4d2j386fg.apps.googleusercontent.com</string>
+
+
+    <!-- MainActivity -->
+    <string name="welcome">Daftar Barang</string>
+    <string name="tambah_barang">Tambah Barang</string>
+    <string name="logout">Logout</string>
+
+    <!-- AddEditActivity -->
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="merk_barang">Merk Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="tanggal_beli">Tanggal Beli</string>
+    <string name="status_barang">Status (Baru / Second)</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+
+    <!-- Notifikasi -->
+    <string name="data_tersimpan">Data tersimpan</string>
+    <string name="gagal_menyimpan">Gagal menyimpan</string>
+    <string name="data_dihapus">Data dihapus</string>
 </resources>
